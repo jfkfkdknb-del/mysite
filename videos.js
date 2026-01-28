@@ -1,9 +1,7 @@
-// بيانات الفيديوهات الأساسية
+// بيانات الفيديوهات المعدلة (بدون إيموجي)
 const perezVideos = [
     {
         id: 1,
-        title: "",
-        description: "",
         duration: "4:35",
         views: 12540,
         likes: 892,
@@ -13,8 +11,6 @@ const perezVideos = [
     },
     {
         id: 2,
-        title: "",
-        description: "",
         duration: "8:20",
         views: 23450,
         likes: 1540,
@@ -24,8 +20,6 @@ const perezVideos = [
     },
     {
         id: 3,
-        title: "",
-        description: "",
         duration: "22:15",
         views: 54800,
         likes: 3250,
@@ -35,8 +29,6 @@ const perezVideos = [
     },
     {
         id: 4,
-        title: "",
-        description: "",
         duration: "35:10",
         views: 32400,
         likes: 2180,
@@ -46,8 +38,6 @@ const perezVideos = [
     },
     {
         id: 5,
-        title: "",
-        description: "",
         duration: "12:45",
         views: 89200,
         likes: 6570,
@@ -57,8 +47,6 @@ const perezVideos = [
     },
     {
         id: 6,
-        title: "",
-        description: "",
         duration: "9:40",
         views: 124500,
         likes: 8520,
@@ -68,8 +56,6 @@ const perezVideos = [
     },
     {
         id: 7,
-        title: "",
-        description: "",
         duration: "18:30",
         views: 34600,
         likes: 2910,
@@ -79,8 +65,6 @@ const perezVideos = [
     },
     {
         id: 8,
-        title: "",
-        description: "",
         duration: "45:20",
         views: 67800,
         likes: 5340,
@@ -90,8 +74,6 @@ const perezVideos = [
     },
     {
         id: 9,
-        title: "",
-        description: "",
         duration: "28:45",
         views: 92700,
         likes: 7840,
@@ -101,8 +83,6 @@ const perezVideos = [
     },
     {
         id: 10,
-        title: "",
-        description: "",
         duration: "42:10",
         views: 41700,
         likes: 3240,
@@ -112,8 +92,6 @@ const perezVideos = [
     },
     {
         id: 11,
-        title: "",
-        description: "",
         duration: "14:25",
         views: 105800,
         likes: 8970,
@@ -123,8 +101,6 @@ const perezVideos = [
     },
     {
         id: 12,
-        title: "",
-        description: "",
         duration: "16:15",
         views: 156800,
         likes: 12100,
